@@ -1,0 +1,11 @@
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\bin\Debug\GM Assist.exe
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\bin\Debug\GM Assist.pdb
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\bin\Debug\GM Assist.xml
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\GM_Assist.GMAssistMain.resources
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\GM_Assist.Resources.resources
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\GM Assist.exe
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\GM Assist.xml
+C:\Users\Greg\Documents\Visual Studio 2010\Projects\GM Assist\GM Assist\obj\x86\Debug\GM Assist.pdb
