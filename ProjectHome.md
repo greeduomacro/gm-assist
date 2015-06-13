@@ -1,0 +1,1 @@
+To provide a easy to use tool for RunUO server Game Masters in completion of their daily tasks.
